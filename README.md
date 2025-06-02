@@ -60,7 +60,7 @@ pip install -r requirements.txt
 Para manter seu fork sincronizado com o repositório original:
 
 ```bash
-git remote add upstream https://github.com/lucianolpsf/NOME_DO_REPOSITORIO.git
+git remote add upstream https://github.com/lucianolpsf/flask_colaborativo.git
 ```
 
 ---
